@@ -1,2 +1,0 @@
--- Migration refatoration-schema-1.0.0
--- No schema changes were required; this migration marks the schema version.
